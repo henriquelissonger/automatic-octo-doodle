@@ -20,3 +20,10 @@ flowchart LR
     E --> F[GPT-4o]
     F --> C
     C -->|JSON| B
+
+Métrica	Valor
+Latência p95	1.2 s
+Custo médio	0.002 $ por requisição
+Precisão manual	85 %
+
+
