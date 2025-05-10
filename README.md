@@ -1,13 +1,3 @@
-.
-
-────────────────────────────────────────
-Adicione os arquivos – método “Copiar & Colar”
-────────────────────────────────────────
-Repetiremos a mesma ação seis vezes:
-
-A) README.md
-B) Dockerfile
-C) 
 
 ────────────────────────────────────────
 2A. Conteúdo de README.md
